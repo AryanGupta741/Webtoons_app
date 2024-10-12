@@ -38,7 +38,7 @@ lib/
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/7506e053-24ca-424a-9200-f18a66ae794e" alt="Home Screen" width="400" />
-<img src="https://github.com/user-attachments/assets/40891079-7868-4bb5-b497-b72dd58d8690" alt="Detail Screen" width="400" />
-<img src="https://github.com/user-attachments/assets/fdb2fca9-5e42-4ca5-af0d-61b3867ca94f" alt="Favorites Screen" width="400" />
-<img src="https://github.com/user-attachments/assets/6f1fc75b-27d1-4dc9-a8ea-12ae7fac929b" alt="Rating Feature" width="400" />
+<img src="https://github.com/user-attachments/assets/7506e053-24ca-424a-9200-f18a66ae794e" alt="Home Screen" width="200" />
+<img src="https://github.com/user-attachments/assets/40891079-7868-4bb5-b497-b72dd58d8690" alt="Detail Screen" width="200" />
+<img src="https://github.com/user-attachments/assets/fdb2fca9-5e42-4ca5-af0d-61b3867ca94f" alt="Favorites Screen" width="200" />
+<img src="https://github.com/user-attachments/assets/6f1fc75b-27d1-4dc9-a8ea-12ae7fac929b" alt="Rating Feature" width="200" />
