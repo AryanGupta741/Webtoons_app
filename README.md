@@ -1,16 +1,25 @@
-# assignment
+# Webtoon Explorer App
 
-A new Flutter project.
+Welcome to the **Webtoon Explorer App**! This Flutter application allows users to explore popular webtoons, manage their favorites, and rate them.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Home Screen**: Displays a list of webtoon categories, each with a title and thumbnail image.
+- **Detail Screen**: Shows details of a selected webtoon, including an image, description, and an "Add to Favorites" button.
+- **Favorites Screen**: Allows users to view and manage their saved favorites.
+- **Rating Feature**: Users can rate their favorite webtoons (1-5 stars), with the average rating displayed dynamically.
+- **Persistent Storage**: Uses `SharedPreferences` or `Hive` to store and retrieve user favorites and ratings.
 
-A few resources to get you started if this is your first Flutter project:
+## App Flow
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Home Screen**: 
+   - A grid view of webtoon categories is displayed. Tapping a category navigates to the detail screen.
+   
+2. **Detail Screen**: 
+   - Displays the selected webtoon’s details and allows users to add the webtoon to their favorites and rate it.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Favorites Screen**: 
+   - Users can view their list of favorite webtoons, which are stored persistently.
+
+## File Structure
+
